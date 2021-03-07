@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyBankActivity</string>
+    <string name="iban">\'Iban\'</string>
+</resources>
